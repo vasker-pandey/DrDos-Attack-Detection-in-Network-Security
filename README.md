@@ -1,6 +1,6 @@
 # Important Note
 Please configure the path for the dataset as required.
-If you just want to run the saved models, please refer to section 19.2
+If you just want to run the saved models, please refer to section 19.2 and modify it as needed.
 
 
 # DrDos-Attack-Detection-in-Network-Security
